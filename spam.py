@@ -1,2 +1,2 @@
 print('spam')
-
+print('spam')
